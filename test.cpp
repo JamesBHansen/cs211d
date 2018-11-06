@@ -4,8 +4,8 @@
 int main()
 {
 
-  //cout << "\nHello, World!" << endl;
-  cout << "\nHello, Wichita" << endl;
+  cout << "\nHello, World!" << endl;
+  //cout << "\nHello, Wichita" << endl;
 
   return(0);
 }
